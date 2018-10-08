@@ -3,10 +3,9 @@
 
 ###### Things I like to do:
 
-- Coding (of course)
+- Machine learning development
 - Play the drums
-- Watch the Office
-- Developing Python projects
+- Indoor soccer
 
 Check out my repositories on GitHub!
 
